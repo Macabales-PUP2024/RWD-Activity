@@ -1,0 +1,94 @@
+body {
+    background-color: yellow;
+}
+.header{
+    background-color: orange;
+    display: flex;
+}
+.red1 {
+    background-color: red;
+    width: 200px;
+    height: 25px;
+    color: red;
+    margin: 6px;
+}
+.red2 {
+    background-color: red;
+    width: 80px;
+    height: 25px;
+    color: red;
+    margin: 6px;
+}
+.red3 {
+    background-color: red;
+    width: 220px;
+    height: 25px;
+    color: red;
+    margin: 6px;
+    position: sticky;
+    left: 2000px;
+}
+.purple {
+    background-color: purple;
+    width: 600px;
+    height: 50px;
+}
+.brown {
+    background-color: chocolate;
+    width: 600px;
+    height: 300px;
+}
+.blue1 {
+    background-color: blue;
+    width: 600px;
+    height: 40px;
+}
+.blue2 {
+    background-color: blue;
+    width: 600px;
+    height: 35px;
+}
+.blue3 {
+    background-color: blue;
+    width: 600px;
+    height: 30px;
+}
+aside {
+    display: flex;
+    max-height: 1000px;
+}
+.lightblue {
+    background-color: lightblue;
+    margin: 7px;
+    display: flex;
+    float: right;
+}
+.greenbox {
+    margin: 5px;
+    background-color: green;
+    width: 150px;
+    height: 125px;
+}
+.redcontainer {
+    margin: 7px;
+    display: flex;
+    float: right;
+}
+.red4 {
+    margin: 5px;
+    background-color: darkred;
+    width: 310px;
+    height: 160px;
+}
+.red5 {
+    background-color: red;
+    width: 615px;
+    height: 40px;
+    float:right;
+}
+.red6 {
+    background-color: red;
+    width: 615px;
+    height: 40px;
+    float: right;
+}
